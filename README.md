@@ -1,16 +1,20 @@
-### Hi there 👋
+*Sobre Mim
 
-<!--
-**THHIGAS1/THHIGAS1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, sou Thiago Freitas, um desenvolvedor iniciante em busca de oportunidades para aprimorar minhas habilidades.
 
-Here are some ideas to get you started:
+**Áreas de Interesse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Banco de Dados SQL
+-HTML, CSS e JavaScript
+
+**Contato
+
+-&#x1F4E7; **Email:** tf698289@gmail.com
+
+**Certificações:
+-Ensino Medio Tecnico Informatica
+
+## Habilidades Técnicas 💻
+
+<img style="height: 40px; width: 40px; border-radius: 10px;" src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt=""> <img style="height: 40px; width: 40px; border-radius: 10px;" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="">
+<img style="height: 40px; width: 40px; border-radius: 10px;" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="">
